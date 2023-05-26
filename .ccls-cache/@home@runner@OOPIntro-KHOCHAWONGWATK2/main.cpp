@@ -16,7 +16,6 @@ int main(int argc, char* argv[]) {
     s1.print_name();
     cout  << " is older.";
   }
-    
   else{
     s2.print_name();
     cout <<  " is older.";
